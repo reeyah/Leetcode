@@ -1,2 +1,2 @@
 # Leetcode
-A GitHub Repo to track my progress on Leetcode.
+The Solutions would be in C++.
