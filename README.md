@@ -1,2 +1,3 @@
 # Leetcode
-The Solutions would be in C++.
+
+The Solutions are in C++.
