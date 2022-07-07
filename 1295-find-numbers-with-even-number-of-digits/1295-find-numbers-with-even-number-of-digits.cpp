@@ -1,13 +1,7 @@
 class Solution {
 public:
     int countDigits(int number){
-        int count=0;
-        while(number>0){
-            number/=10;
-            count++;
-        }
-        //cout<<count;
-        return count;
+        return (int)log10(number)+1;
     }
     
     int findNumbers(vector<int>& nums) {
