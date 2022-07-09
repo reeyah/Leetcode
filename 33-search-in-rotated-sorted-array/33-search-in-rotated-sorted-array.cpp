@@ -21,12 +21,12 @@ public:
                 pivot = mid;
                 break;
             }
-            // if(mid>start && nums[mid-1]>nums[mid]){
-            //     pivot = mid-1;
-            //     break;
-            // }
+            if(mid>start && nums[mid-1]>nums[mid]){
+                pivot = mid-1;
+                break;
+            }
             else if(nums[start]>nums[mid])
-                end = mid;
+                end = mid-1;
             else start = mid + 1;
         }
         
