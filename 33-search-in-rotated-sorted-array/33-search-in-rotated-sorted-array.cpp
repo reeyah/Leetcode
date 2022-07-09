@@ -29,7 +29,7 @@ public:
             //     pivot = mid-1;
             //     break;
             // }
-            else if(nums[end]>nums[mid])
+            else if(nums[start]>nums[mid])
                 //start = mid + 1;
                 end = mid;
             else //end = mid;
