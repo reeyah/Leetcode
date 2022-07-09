@@ -10,19 +10,19 @@
 
 class Solution {
 public:
-    int binary(int start, int end, MountainArray &mountainArr, int target){
-        while(start<=end){
-            int mid = start + (end-start)/2;
-            if(mountainArr.get(mid)==target) 
-                return mid;
-            if(mountainArr.get(mid)>target)
-                end = mid-1;
-            else
-                start = mid + 1;
-        }
+//     int binary(int start, int end, MountainArray &mountainArr, int target){
+//         while(start<=end){
+//             int mid = start + (end-start)/2;
+//             if(mountainArr.get(mid)==target) 
+//                 return mid;
+//             if(mountainArr.get(mid)>target)
+//                 end = mid-1;
+//             else
+//                 start = mid + 1;
+//         }
         
-        return -1;
-    }
+//         return -1;
+//     }
     int findInMountainArray(int target, MountainArray &mountainArr) {
         int start = 0, end = mountainArr.length()-1;
         while(start<end){
