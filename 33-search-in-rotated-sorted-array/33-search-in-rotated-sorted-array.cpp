@@ -29,9 +29,11 @@ public:
             //     pivot = mid-1;
             //     break;
             // }
-            else if(nums[start]>nums[mid])
+            else if(nums[end]>nums[mid])
+                //start = mid + 1;
                 end = mid;
-            else start = mid + 1;
+            else //end = mid;
+                start = mid + 1;
         }
         
         //cout<<pivot;
