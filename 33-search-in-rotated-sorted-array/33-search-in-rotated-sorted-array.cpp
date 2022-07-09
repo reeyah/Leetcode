@@ -30,7 +30,7 @@ public:
             else start = mid + 1;
         }
         
-        cout<<pivot;
+        //cout<<pivot;
         
         if(pivot==-1)
             return binary(0, nums.size()-1, nums, target);
