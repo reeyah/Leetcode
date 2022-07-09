@@ -16,7 +16,7 @@ public:
         int start = 0, end = nums.size()-1, pivot=-1;
         while(start<=end){
             int mid = start + (end-start)/2;
-            cout<<mid<<" ";
+            //cout<<mid<<" ";
             if(mid<end && nums[mid]>nums[mid+1]){
                 pivot = mid;
                 break;
