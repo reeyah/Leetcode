@@ -14,10 +14,10 @@ public:
     
     int search(vector<int>& nums, int target) {
         int start = 0, end = nums.size()-1, pivot=-1;
-        if(nums[start] == target)
-            return start;
-        if(nums[end] == target)
-            return end;
+        // if(nums[start] == target)
+        //     return start;
+        // if(nums[end] == target)
+        //     return end;
         while(start<end){
             int mid = start + (end-start)/2;
             //cout<<mid<<" ";
@@ -36,13 +36,13 @@ public:
                 start = mid + 1;
         }
         
-        //cout<<pivot;
+        cout<<pivot;
         
         if(pivot==-1)
             return binary(0, nums.size()-1, nums, target);
         if(nums[pivot] == target) 
             return pivot;
-        if(target > nums[0])
+        if(target >= nums[0])
             return binary(0, pivot-1, nums, target);
         return binary(pivot+1, nums.size()-1, nums, target);
         return -1;
