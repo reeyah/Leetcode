@@ -7,6 +7,8 @@ public:
                 cEnd--;
             ans += col - (cEnd + 1);
             rStart ++;
+            
+            //cout<<cEnd<<" "<<rStart<<"\n";
         }
         
         return ans;
