@@ -18,10 +18,10 @@ public:
             return start;
         if(nums[end] == target)
             return end;
-        while(start<=end){
+        while(start<end){
             int mid = start + (end-start)/2;
             //cout<<mid<<" ";
-            if(mid<end && nums[mid]>nums[mid+1]){
+            if( nums[mid]>nums[mid+1]){
                 pivot = mid;
                 break;
             }
