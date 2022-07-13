@@ -40,8 +40,8 @@ class Solution
         while(j<=r)
             merged[k++]=arr[j++];
         
-        for(i=0, j=l; i<r-l+1; i++, j++)
-            arr[j]=merged[i];
+        for(i=0; i<r-l+1; i++)
+            arr[i+l]=merged[i];
     }
     public:
     void mergeSort(int arr[], int l, int r)
