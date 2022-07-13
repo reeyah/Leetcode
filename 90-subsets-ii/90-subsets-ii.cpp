@@ -14,7 +14,7 @@ public:
                 subs.push_back(subs[i]);
                 subs.back().push_back(nums[j]);
             }
-            end = n ;
+            end = n ; //gives the position where new number was added in the newly created array
         }
         
         return subs;
