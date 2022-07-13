@@ -8,7 +8,7 @@ public:
         
         subs(s, i+1, p);
         if(isalpha(s[i])){
-            s[i] ^= 32;
+            s[i] ^= (1<<5);
             subs(s, i+1, p);
         }
     }
