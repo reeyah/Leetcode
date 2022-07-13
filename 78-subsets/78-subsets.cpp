@@ -14,16 +14,26 @@ public:
         
 //         return right;
 //     }
-    void recSub(vector<int>nums, int i, vector<int>proc, vector<vector<int>>&power){
-        if(i==nums.size()){
-            power.push_back(proc);
-            return;
+    // void recSub(vector<int>nums, int i, vector<int>proc, vector<vector<int>>&power){
+    //     if(i==nums.size()){
+    //         power.push_back(proc);
+    //         return;
+    //     }
+    //     proc.push_back(nums[i]);
+    //     recSub(nums, i+1, proc, power);
+    //     proc.pop_back();
+    //     recSub(nums, i+1, proc, power);
+    // }
+    
+    void subsets(vector<int>& nums, int i, vector<int>& sub, vector<vector<int>>& subs) {
+        subs.push_back(sub);
+        for (int j = i; j < nums.size(); j++) {
+            sub.push_back(nums[j]);
+            subsets(nums, j + 1, sub, subs);
+            sub.pop_back();
         }
-        proc.push_back(nums[i]);
-        recSub(nums, i+1, proc, power);
-        proc.pop_back();
-        recSub(nums, i+1, proc, power);
     }
+    
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<int>proc;
         vector<vector<int>>power;
@@ -38,7 +48,8 @@ public:
         // }
         // return subs;
         
-        recSub(nums, 0, proc, power);
+        //recSub(nums, 0, proc, power);
+        subsets(nums, 0, proc, power);
         return power;
     }
 };
