@@ -19,23 +19,20 @@ public:
         
     }
     
-    int solveNQueens(vector<vector<string>>&res, vector<string>&p, int n, int r){
+    void solveNQueens(vector<vector<string>>&res, vector<string>&p, int n, int r){
         if(r == n){
             res.push_back(p);
-            return 1;
+            return ;
         }
         
-        int count = 0;
 
         for(int c = 0; c<n; c++){ //will check to put 'Q' in every column of every row
             if(isSafe(p, n, r, c)){
                 p[r][c] = 'Q';
-                count+= solveNQueens(res, p, n, r+1);
+                solveNQueens(res, p, n, r+1);
                 p[r][c] = '.';
             }
         }
-        
-        return count;
     }
     // Observation 1 : vector<string> Each string represents one row.
     // The return vector contains all possibilities
@@ -43,7 +40,7 @@ public:
     vector<vector<string> > solveNQueens(int n) {
         vector<vector<string>> res; // final answer
         vector<string> poss(n, string(n, '.')); //contains one possible arrangement
-        cout<<solveNQueens(res, poss, n, 0);
+        solveNQueens(res, poss, n, 0);
         return res;
         // vector<vector<string> > res;
         // vector<string> nQueens(n, string(n, '.'));
