@@ -2,18 +2,19 @@ class Solution {
 public:
     
     bool isValidSudoku(vector<vector<char>>& board) {
-        int used1[9][9] = {0}, used2[9][9] = {0}, used3[9][9] = {0};
+        int row[9][9] ={0}, col[9][9]={0}, cube[3][3][9]={0};
         
-        for(int i = 0; i < board.size(); ++ i)
-            for(int j = 0; j < board[i].size(); ++ j)
-                if(board[i][j] != '.')
-                {
-                    int num = board[i][j] - '0' - 1, k = i / 3 * 3 + j / 3;
-                    if(used1[i][num] || used2[j][num] || used3[k][num])
+        for (int r = 0; r < 9; r++) 
+            for (int c = 0; c < 9; c++) {
+                char ch = board[r][c];
+                if (ch != '.') {
+                    if(row[r][ch - '1'] || col[c][ch - '1'] || cube[r/3][c/3][ch - '1'] ) 
                         return false;
-                    used1[i][num] = used2[j][num] = used3[k][num] = 1;
+                    row[r][ch - '1'] = 1;
+                    col[c][ch - '1'] = 1;
+                    cube[r/3][c/3][ch - '1'] = 1;
                 }
-        
+            }
         return true;
     }
 };
