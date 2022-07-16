@@ -27,7 +27,7 @@ public:
         
         int count = 0;
 
-        for(int c = 0; c<n; c++){
+        for(int c = 0; c<n; c++){ //will check to put 'Q' in every column of every row
             if(isSafe(p, n, r, c)){
                 p[r][c] = 'Q';
                 count+= solveNQueens(res, p, n, r+1);
