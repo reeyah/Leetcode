@@ -11,14 +11,14 @@
  */
 class Solution {
 public:
-    // int depth(TreeNode *root){
-    //     if(root == NULL)
-    //         return 0;
-    //     return 1 + max (depth(root->left), depth(root->right));
-    // }
+    int depth(TreeNode *root){
+        if(root == NULL)
+            return 0;
+        return 1 + max (depth(root->left), depth(root->right));
+    }
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-        // int d = depth(root);
-        vector<vector<int>> levels;
+        int d = depth(root);
+        vector<vector<int>> levels(d, vector<int>({}));
         if(root == NULL) return levels;
         queue<TreeNode*> q;
         q.push(root);
@@ -32,7 +32,8 @@ public:
                 if(node->right != NULL) q.push(node->right);
                 q.pop();
             }
-          levels.insert(levels.begin() , level);      
+            levels[d-1] = level;
+            d--;
         }
         return levels;
     }
