@@ -5,14 +5,15 @@ public:
         // memset(dp, -1, sizeof(dp));
         int m = grid.size(), n = grid[0].size();
         
-        vector<vector<vector<int>>>dp(m, vector<vector<int>>(n, vector<int>(n,0)));
+        vector<vector<int>>dp(n, vector<int>(n,0));
         for(int j1 = 0; j1<n; j1++){
             for(int j2 = 0; j2<n; j2++){
-                dp[m-1][j1][j2]= j1 == j2? grid[m-1][j1] : grid[m-1][j1] + grid[m-1][j2];
+                dp[j1][j2]= j1 == j2? grid[m-1][j1] : grid[m-1][j1] + grid[m-1][j2];
             }
         }
         
         for(int row = m-2; row>=0; row--){
+            vector<vector<int>>temp(n, vector<int>(n,0));
             for(int j1 = 0; j1<n; j1++){
                 for(int j2 = 0; j2<n; j2++){
                     int maxi = 0;
@@ -20,17 +21,18 @@ public:
                         for(int it2 = j2-1; it2<= j2+1; it2++){
                             int val = j1 == j2 ? grid[row][j1] : grid[row][j1] + grid[row][j2];
                             if(it1 >=0 && it2>=0 && it1<n && it2<n)
-                                val += dp[row+1][it1][it2];
+                                val += dp[it1][it2];
                             maxi = max(maxi, val);
                         }
                     }
                     
-                    dp[row][j1][j2] = maxi;
+                    temp[j1][j2] = maxi;
                 }
             }
+            dp = temp;
         }
         
-        return dp[0][0][n-1];
+        return dp[0][n-1];
         
         // return dfs(grid, m, n, 0, 0, n - 1);
     }
