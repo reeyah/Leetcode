@@ -1,3 +1,3 @@
 # Leetcode
 
-The Solutions are in C++.
+Repo to track my Leetcode Progress
