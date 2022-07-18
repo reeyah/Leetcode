@@ -19,12 +19,19 @@ public:
                 if(!root->left && !root->right) 
                     return NULL;         
                 if (!root->left || !root->right)
-                    return root->left ? root->left : root->right;  
+                    return root->left ? root->left : root->right;
+                /*
                 // Both children exists
                 TreeNode* temp = root->left;     // went to the left child of the node                   
                 while(temp->right) temp = temp->right;  // traverse to right-most node of left child
                 root->val = temp->val;                           
                 root->left = deleteNode(root->left, temp->val); 		 //if that right-most child had a left child
+                
+            */
+                TreeNode* temp = root->right;
+                while(temp->left) temp = temp->left;
+                root->val = temp->val;
+                root->right = deleteNode(root->right, root->val);
             }
         return root;
     }
