@@ -2,12 +2,12 @@ class Solution {
 public:
     int numUniqueEmails(vector<string>& emails) {
         unordered_map<string, int>count;
-        for(auto s: emails){
+        for(auto &s: emails){
             string email;
             for(auto ch: s){
-                if(ch =='.')
+                if(ch=='.')
                     continue;
-                if(ch == '+' || ch =='@')
+                if(ch=='+' || ch=='@')
                     break;
                 email+=ch;
             }
