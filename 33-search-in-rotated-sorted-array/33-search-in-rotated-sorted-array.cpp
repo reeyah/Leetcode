@@ -33,6 +33,7 @@ public:
             return pivot;
         if(target > nums[0])
             return binary(0, pivot-1, nums, target);
-        return binary(pivot+1, nums.size()-1, nums, target);
+        else return binary(pivot+1, nums.size()-1, nums, target);
+        return -1;
     }
 };
