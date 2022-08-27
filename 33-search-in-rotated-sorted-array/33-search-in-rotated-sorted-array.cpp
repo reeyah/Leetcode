@@ -17,7 +17,7 @@ public:
             return start;
         if(nums[end] == target)
             return end;
-        while(start<=end){
+        while(start<end){
             int mid = start + (end-start)/2;
             if(mid<end && nums[mid]>nums[mid+1]){
                 pivot = mid;
@@ -27,13 +27,14 @@ public:
                 end = mid;
             else start = mid + 1;
         }
+        cout<<start;
         if(pivot==-1)
             return binary(0, nums.size()-1, nums, target);
         if(nums[pivot] == target) 
             return pivot;
         if(target > nums[0])
             return binary(0, pivot-1, nums, target);
-        else return binary(pivot+1, nums.size()-1, nums, target);
-        return -1;
+        return binary(pivot+1, nums.size()-1, nums, target);
+        //return -1;
     }
 };
