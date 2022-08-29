@@ -9,6 +9,6 @@ public:
             while (height[i] <= h && i < j) i++;
             while (height[j] <= h && i < j) j--;
         }
-    return water;
+        return water;
     }
 };
