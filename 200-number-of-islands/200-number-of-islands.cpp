@@ -22,16 +22,18 @@ public:
                 if(grid[i][j] == '1'){
                     // markIslands(grid, rows, cols, i, j);
                     numOfIslands++;
-                    stack<pair<int,int>>coords;
+                    grid[i][j]='2';
+                    queue<pair<int,int>>coords;
                     coords.push(make_pair(i,j));
                     while(!coords.empty()){
-                        int x = coords.top().first, y = coords.top().second;
-                        grid[x][y]='2';
+                        int x = coords.front().first, y = coords.front().second;
                         coords.pop();
                         for(int k=0; k<4; k++){
                             int r = x + offsets[k], c = y + offsets[k+1];
-                            if(r>=0 && c>=0 && r<rows && c<cols && grid[r][c] == '1')
+                            if(r>=0 && c>=0 && r<rows && c<cols && grid[r][c] == '1'){
+                                grid[r][c]='2';
                                 coords.push(make_pair(r,c));
+                            }
                         }
                     }
                 }
