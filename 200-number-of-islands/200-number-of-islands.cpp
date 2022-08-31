@@ -21,7 +21,7 @@ public:
             for(int j=0; j<cols; j++)
                 if(grid[i][j] == '1'){
                     markIslands(grid, rows, cols, i, j);
-                    numOfIslands+=1;
+                    numOfIslands++;
                 }
         return numOfIslands;
     }
