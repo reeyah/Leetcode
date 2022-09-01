@@ -18,10 +18,8 @@ public:
             if(k==0)
                 return n;
             k--;
-            if(k==0){
-                n = root->val;
-                return n;
-            }
+            if(k==0)
+                return root->val;
             return kthSmallest(root->right, k);
         }
         return n;
