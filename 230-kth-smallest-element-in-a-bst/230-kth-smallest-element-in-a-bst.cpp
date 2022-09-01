@@ -11,24 +11,19 @@
  */
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int& k ) {
+    int kthSmallest(TreeNode* root, int &k) {
         int n = -1;
         if(root){
             n = kthSmallest(root->left, k);
-            if(k==0) {
-                // cout<<n;
+            if(k==0)
                 return n;
-            }
             k--;
             if(k==0){
                 n = root->val;
-                // cout<<n;
                 return n;
             }
             return kthSmallest(root->right, k);
         }
-       
-        
         return n;
     }
 };
