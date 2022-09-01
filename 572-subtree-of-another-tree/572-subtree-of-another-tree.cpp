@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+    vector<TreeNode*> nodes;
     bool isIdentical (TreeNode* root1, TreeNode* root2){
         if(root1 == NULL || root2 == NULL)
             return root1 == root2;
@@ -18,14 +19,25 @@ public:
         return root1->val == root2->val && isIdentical(root1->left, root2->left) && isIdentical(root1->right, root2->right);
     }
     
+    int getDepth(TreeNode* r, int d) {
+        if (!r)
+            return -1;
+
+        int depth = max(getDepth(r->left, d), getDepth(r->right, d)) + 1;
+        if (depth == d)
+            nodes.push_back(r);
+
+        return depth;
+    }
+    
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(!root || !subRoot)
-            return root == subRoot;
         
-        if(root->val == subRoot->val)
-            if(isIdentical(root, subRoot))
+        getDepth(root, getDepth(subRoot, -1));
+
+        for (TreeNode* n: nodes)
+            if (isIdentical(n, subRoot))
                 return true;
-        
-        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
+
+        return false;
     }
 };
