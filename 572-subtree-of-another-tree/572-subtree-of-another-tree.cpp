@@ -12,6 +12,7 @@
 class Solution {
 public:
     vector<TreeNode*> nodes;
+    int subVal;
     bool isIdentical (TreeNode* root1, TreeNode* root2){
         if(root1 == NULL || root2 == NULL)
             return root1 == root2;
@@ -24,14 +25,14 @@ public:
             return -1;
 
         int depth = max(getDepth(r->left, d), getDepth(r->right, d)) + 1;
-        if (depth == d)
+        if (depth == d && r->val == subVal)
             nodes.push_back(r);
 
         return depth;
     }
     
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        
+        subVal = subRoot->val;
         getDepth(root, getDepth(subRoot, -1));
 
         for (TreeNode* n: nodes)
