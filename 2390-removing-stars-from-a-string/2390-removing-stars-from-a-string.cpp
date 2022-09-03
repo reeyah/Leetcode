@@ -9,7 +9,7 @@ public:
             else st.push(ch);
         }
         while(!st.empty()){
-            ans+= st.top();
+            ans+=st.top();
             st.pop();
         }
         reverse(ans.begin(),ans.end());
