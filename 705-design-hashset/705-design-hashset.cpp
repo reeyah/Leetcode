@@ -3,7 +3,7 @@ public:
     vector<list<int>>m;
     int size;
     MyHashSet() {
-        size = 107;
+        size = 1007;
         m.resize(size);
     }
     
