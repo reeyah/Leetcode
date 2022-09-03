@@ -18,7 +18,7 @@ public:
             p = c;
             c = n;
         }
-        head = p;
-        return head;
+        //head = p;
+        return p;
     }
 };
