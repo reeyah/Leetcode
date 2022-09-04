@@ -7,7 +7,7 @@ public:
         }
         if(target < 0)
             return;
-        for(int j=i; j<candidates.size(); j++){
+        for(int j=i; j<candidates.size() && target>=candidates[j]; j++){
             if(j!=i && candidates[j]==candidates[j-1])
                 continue;
             s.push_back(candidates[j]);
