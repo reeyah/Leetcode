@@ -1,30 +1,20 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int sum = 0;
-        for (int num : nums)
-            sum += num;
-        if ((sum & 1) == 1) //odd total
+    bool check(vector<int>&arr, int i, int k, vector<vector<int>>&dp){
+        if(k==0)
+            return true;
+        if(i==arr.size() || k<0)
             return false;
-        sum /= 2;
-        
-        int n = nums.size();
-        vector<vector<bool>>dp(n, vector<bool>(sum+1, false));
-    
-        for (int i = 0; i < n; i++)
-            dp[i][0] = true;
-        
-        if(nums[0]<=sum)
-            dp[0][nums[0]] = true;
-
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < sum+1; j++) {
-                if(nums[i]>j)
-                    dp[i][j] = dp[i-1][j];
-                else
-                    dp[i][j] = dp[i-1][j] || dp[i-1][j-nums[i]];
-            }
-        }
-        return dp[n-1][sum];
+        if(dp[i][k]!=-1)
+            return dp[i][k];
+        dp[i][k] = check(arr, i+1, k-arr[i], dp) || check(arr, i+1, k, dp);
+        return dp[i][k];
+    }
+    bool canPartition(vector<int>& nums) {
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        if(sum&1)
+            return false;
+        vector<vector<int>>dp(nums.size(), vector<int>(sum/2+1,-1));
+        return check(nums, 0, sum/2, dp);
     }
 };
