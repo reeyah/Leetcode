@@ -7,14 +7,14 @@ public:
         }
         
         if(n>0)
-            rec(n-1, m+1, s+"(", ans);
-        if(m>0)
+            rec(n-1, m, s+"(", ans);
+        if(m>n)
             rec(n, m-1, s+")", ans);
     }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
         string s;
-        rec(n, 0, s, ans);
+        rec(n, n, s, ans);
         return ans;
     }
 };
