@@ -7,8 +7,8 @@ public:
         for(auto st:supplies)
             s.insert(st);
         unordered_map<string, int>indegree;
-        for(auto x: recipes)
-            indegree[x]=0;
+        // for(auto x: recipes)
+        //     indegree[x]=0;
         unordered_map<string,vector<string>> graph;
 
         for(int i=0; i<n; i++){
@@ -21,9 +21,9 @@ public:
         }
         
         queue<string>q;
-        for(auto i: indegree){
-            if(i.second == 0)
-                q.push(i.first);
+        for(auto i: recipes){
+            if(indegree[i] == 0)
+                q.push(i);
         }
         
         while(!q.empty()){
