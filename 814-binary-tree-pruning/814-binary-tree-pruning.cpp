@@ -15,20 +15,13 @@ public:
         return !node->left &&!node->right;
     }
     
-    TreeNode* dfs(TreeNode* node){
-        if(!node)
-            return NULL;
-        node->left = dfs(node->left);
-        node->right = dfs(node->right);
-        if(isLeaf(node) && node->val==0)
-            node = NULL;
-        return node;
-    }
-    
     TreeNode* pruneTree(TreeNode* root) {
         if(!root)
             return root;
-        root = dfs(root);
+        root->left = pruneTree(root->left);
+        root->right = pruneTree(root->right);
+        if(isLeaf(root) && root->val==0)
+            root = NULL;
         return root;
     }
 };
