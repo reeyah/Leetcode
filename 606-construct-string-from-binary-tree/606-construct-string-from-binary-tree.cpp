@@ -11,29 +11,14 @@
  */
 class Solution {
 public:
-    void append(TreeNode* node, string &s){
-        if(!node)
-            return;
-        
-        s+=to_string(node->val);
-        if(node->left){
-            s+="(";
-            append(node->left, s);
-            s+=")";
-        }
-        else if(node->right)
-            s+="()";
-        if(node->right){
-            s+="(";
-            append(node->right, s);
-            s+=")";
-        }
-    }
     string tree2str(TreeNode* root) {
         string s;
         if(!root)
-            return s;
-        append(root, s);
+            return "";
+        s+=to_string(root->val);
+        if(root->left) s+="(" + tree2str(root->left) + ")";
+        else if(root->right) s+="()";
+        if(root->right) s+="(" + tree2str(root->right) + ")";
         return s;
     }
 };
