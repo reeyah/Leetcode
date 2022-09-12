@@ -16,7 +16,7 @@ public:
                     score--;
                     j--;
                 }
-                else i++;
+                else break;
             }
         }
         return score;
