@@ -11,34 +11,29 @@
  */
 class Solution {
 public:
-    int solve(TreeNode*root, set<int>&h){
+    int solve(TreeNode*root, map<int, int>&mp){
         if(!root)
             return 0;
-        bool erased = false;
-        if(h.find(root->val) != h.end()){
-            h.erase(root->val);
-            erased = true;
-        }
-        else h.insert(root->val);
+        mp[root->val]++;
         if(!root->left && !root->right){
-            int ans = h.size()<=1 ? 1:0;
-            if(erased)
-                h.insert(root->val);
-            else h.erase(root->val);
-            return ans;
+            int odd = 0;
+            for(auto m:mp){
+                if(m.second&1)
+                    odd++;
+            }
+            mp[root->val]--;
+            return odd<=1? 1:0;
         }
         
-        int left = solve(root->left, h);
-        int right = solve(root->right, h);
-        if(erased) // backtracking
-            h.insert(root->val);
-        else h.erase(root->val);
+        int left = solve(root->left, mp);
+        int right = solve(root->right, mp);
+        mp[root->val]--;
         return left + right;
     }
-    int pseudoPalindromicPaths (TreeNode* root, int count=0) {
+    int pseudoPalindromicPaths (TreeNode* root) {
         if(!root)
             return 0;
-        set<int>h;
-        return solve(root, h);
+        map<int, int>mp;
+        return solve(root, mp);
     }
 };
