@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int solve(TreeNode*root, unordered_set<int>&h){
+    int solve(TreeNode*root, set<int>&h){
         if(!root)
             return 0;
         bool erased = false;
@@ -38,7 +38,7 @@ public:
     int pseudoPalindromicPaths (TreeNode* root, int count=0) {
         if(!root)
             return 0;
-        unordered_set<int>h;
+        set<int>h;
         return solve(root, h);
     }
 };
