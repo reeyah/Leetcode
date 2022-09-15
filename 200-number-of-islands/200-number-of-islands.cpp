@@ -27,10 +27,12 @@ public:
                     coords.push(make_pair(i,j));
                     while(!coords.empty()){
                         int x = coords.front().first, y = coords.front().second;
+                        //grid[x][y]='2';
                         coords.pop();
                         for(int k=0; k<4; k++){
                             int r = x + offsets[k], c = y + offsets[k+1];
                             if(r>=0 && c>=0 && r<rows && c<cols && grid[r][c] == '1'){
+                                cout<<r<<","<<c<<" ";
                                 grid[r][c]='2';
                                 coords.push(make_pair(r,c));
                             }
