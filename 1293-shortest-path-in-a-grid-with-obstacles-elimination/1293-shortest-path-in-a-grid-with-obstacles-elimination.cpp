@@ -19,7 +19,6 @@ public:
                     continue;
                 for(int k=0; k<4; k++){
                     int x1 = x+dir[k], y1=y+dir[k+1], newLeft = left;
-                   // int dist = m-x1 + n-y1 -2;
                     if(x1==m-1 && y1==n-1)
                         return steps;
                     if(x1<0 || y1<0 || x1>=m || y1>=n)
@@ -29,6 +28,10 @@ public:
                     if(vis[x1][y1]>=newLeft)
                         continue;
                     else vis[x1][y1] = newLeft;
+                    int dist = m-x1 + n-y1 -2;
+                    if(dist-1<=newLeft && dist == shortest-1)
+                        return steps+dist;
+                    shortest = min(shortest, dist);
                     q.push({x1, y1, newLeft});
                 }       
             }
