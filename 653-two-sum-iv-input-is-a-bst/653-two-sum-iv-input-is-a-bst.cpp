@@ -9,39 +9,15 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class BSTIterator {
-private:
-    stack<TreeNode*> Stack;
-    TreeNode* node;
-    bool forward;
-public:
-    BSTIterator(TreeNode* root, bool isForward){
-        node = root;
-        forward = isForward;
-    }
-    
-    int next(){
-        while(node){
-            Stack.push(node);
-            node = forward ? node->left : node->right;
-        }
-        TreeNode* cur = Stack.top(); Stack.pop();
-        node = forward ? cur->right : cur ->left;
-        return cur->val;
-    }
-};
 class Solution {
+    unordered_set<int>s;
 public:
     bool findTarget(TreeNode* root, int k) {
-        BSTIterator leftItr(root, true), rightItr(root, false);
-        int left = leftItr.next(), right = rightItr.next();
-        while (left < right) {
-            if (left + right == k) return true;
-            if (left + right < k)
-                left = leftItr.next();
-            else
-                right = rightItr.next();
-        }
-        return false;
+        if(!root)
+            return false;
+        if(s.count(k-root->val))
+            return true;
+        s.insert(root->val);
+        return findTarget(root->left, k) || findTarget(root->right, k);
     }
 };
