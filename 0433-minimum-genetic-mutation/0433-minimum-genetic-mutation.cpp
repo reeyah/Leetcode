@@ -20,7 +20,7 @@ public:
                     string t = curr;
                     for(auto c:alpha){
                         t[i]=c;
-                        if(st.count(t))
+                        if(st.find(t)!=st.end())
                             q.push(t);
                     }
                 }
