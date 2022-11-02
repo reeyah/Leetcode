@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minMutation(string start, string end, vector<string>& bank) {
+        vector<char>alpha = {'A', 'C', 'G', 'T'};
         unordered_set<string> st{bank.begin(), bank.end()};
         if(st.find(end)==st.end())
             return -1;
@@ -17,18 +18,11 @@ public:
                 st.erase(curr);
                 for(int i=0; i<8; i++){
                     string t = curr;
-                    t[i]='A';
-                    if(st.count(t))
-                        q.push(t);
-                    t[i]='C';
-                    if(st.count(t))
-                        q.push(t);
-                    t[i]='G';
-                    if(st.count(t))
-                        q.push(t);
-                    t[i]='T';
-                    if(st.count(t))
-                        q.push(t);
+                    for(auto c:alpha){
+                        t[i]=c;
+                        if(st.count(t))
+                            q.push(t);
+                    }
                 }
             }
             steps++;
