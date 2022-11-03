@@ -1,25 +1,19 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
-        int res=0, unpaired=0;
-        unordered_map<string,int>mp;
-        for(auto word:words){
-            if(mp.count(word)>0){
-                res+=4;
-                if(--mp[word] == 0)
-                    mp.erase(word);
-                if(word[0]==word[1])
-                    unpaired--;
-            }
-            else {       
-                if(word[0]==word[1])
-                    unpaired++;
-                swap(word[0],word[1]);
-                mp[word]++;
+        vector<vector<int>> counter(26, vector<int>(26, 0));
+        int ans = 0;
+        for (string w: words) {
+            int a = w[0] - 'a', b = w[1] - 'a';
+            if (counter[b][a]) ans += 4, counter[b][a]--;
+            else counter[a][b]++;
+        }
+        for (int i = 0; i < 26; i++) {
+            if (counter[i][i]) {
+                ans += 2;
+                break;
             }
         }
-        if(unpaired>0)
-            res+=2;
-        return res;
+        return ans;
     }
 };
