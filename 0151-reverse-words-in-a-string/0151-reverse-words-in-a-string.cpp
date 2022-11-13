@@ -15,8 +15,8 @@ public:
                 l = r;
             }
         }
-        //if (r > 0) 
-        s.resize(r - 1);
+        if (r > 0) 
+            s.resize(r - 1);
         return s;
     }
 };
