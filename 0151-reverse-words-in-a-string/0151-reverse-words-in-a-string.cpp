@@ -6,7 +6,6 @@ public:
         while (i < n) {
             while (i < n && s[i] == ' ') i++;
             while (i < n && s[i] != ' ') {
-                //cout<<s[r]<<","<<s[i];
                 s[r++] = s[i++];
             }
             
@@ -15,9 +14,9 @@ public:
                 s[r++] = ' ';
                 l = r;
             }
-           // i++;
         }
-        if (r > 0) s.resize(r - 1);
+        //if (r > 0) 
+        s.resize(r - 1);
         return s;
     }
 };
