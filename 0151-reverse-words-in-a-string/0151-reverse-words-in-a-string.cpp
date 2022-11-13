@@ -5,14 +5,17 @@ public:
         int l = 0, r = 0, i = 0, n = s.size();
         while (i < n) {
             while (i < n && s[i] == ' ') i++;
-            while (i < n && s[i] != ' ') s[r++] = s[i++];
+            while (i < n && s[i] != ' ') {
+                //cout<<s[r]<<","<<s[i];
+                s[r++] = s[i++];
+            }
             
             if (l < r) {
                 reverse(s.begin() + l, s.begin() + r);
                 s[r++] = ' ';
                 l = r;
             }
-            i++;
+           // i++;
         }
         if (r > 0) s.resize(r - 1);
         return s;
