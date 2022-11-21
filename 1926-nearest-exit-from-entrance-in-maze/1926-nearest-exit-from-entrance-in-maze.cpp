@@ -5,6 +5,7 @@ public:
         vector<int>dir={0,1,0,-1,0};
         queue<pair<int,int>>q;
         q.push({entrance[0], entrance[1]});
+        maze[entrance[0]][entrance[1]]='+';
         int steps=0;
         while(!q.empty()){
             int size = q.size();
