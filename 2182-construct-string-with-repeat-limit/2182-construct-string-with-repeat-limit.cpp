@@ -1,29 +1,54 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-        map<char, int, greater<char>> countCh;
-        for(auto ch:s)
-            countCh[ch]++;
+        // Max-heap to store characters by frequency (greatest characters come first)
+        priority_queue<pair<char, int>> maxHeap;
+        unordered_map<char, int> count;
+
+        // Step 1: Count frequency of each character
+        for (char ch : s) {
+            count[ch]++;
+        }
+
+        // Step 2: Push characters and frequencies into the max-heap
+        for (auto &entry : count) {
+            maxHeap.push({entry.first, entry.second});
+        }
+
         string ans = "";
-        while(!countCh.empty()){
-            int freq = countCh.begin()->second, count=0;
-            char ch = countCh.begin()->first;
-            countCh.erase(countCh.begin());
-            while(freq){
-                if(count>=repeatLimit){
-                    if(countCh.empty()) 
-                        return ans;
-                    ans+= countCh.begin()->first;
-                    countCh.begin()->second--;
-                    if (countCh.begin()->second == 0)
-                        countCh.erase(countCh.begin());
-                    count=0;
+
+        while (!maxHeap.empty()) {
+            // Get the most frequent character
+            auto [ch, freq] = maxHeap.top();
+            maxHeap.pop();
+
+            // Append as many occurrences of 'ch' as possible, limited by 'repeatLimit'
+            int use = min(repeatLimit, freq);
+            ans.append(use, ch);
+            freq -= use;
+
+            // If there are still characters remaining and the next largest character exists
+            if (freq > 0) {
+                if (maxHeap.empty()) break;  // No other characters to insert, stop early
+
+                // Use the next largest character
+                auto [nextCh, nextFreq] = maxHeap.top();
+                maxHeap.pop();
+
+                // Append one occurrence of the next character
+                ans.push_back(nextCh);
+                nextFreq--;
+
+                // Push back the next character into the heap if it still has remaining frequency
+                if (nextFreq > 0) {
+                    maxHeap.push({nextCh, nextFreq});
                 }
-                ans+=ch;
-                freq--;
-                count++;
+
+                // Push the original character back into the heap for future use
+                maxHeap.push({ch, freq});
             }
         }
+
         return ans;
     }
 };
