@@ -16,4 +16,13 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
