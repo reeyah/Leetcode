@@ -8,11 +8,13 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
@@ -25,6 +27,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
@@ -51,4 +54,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
