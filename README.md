@@ -7,6 +7,7 @@ Repo to track my Leetcode Progress
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -58,4 +59,12 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
