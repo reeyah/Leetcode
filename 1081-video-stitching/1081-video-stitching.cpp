@@ -13,7 +13,8 @@ public:
         int maxFar=0, currEnd=0, clipCount=0;
 
         for(int t=0; t<=time; t++) {
-            if(currEnd == time)
+            cout<<clipEnd[t]<<" ";
+            if(currEnd >= time)
                 return clipCount;
             
             if(t>currEnd)
