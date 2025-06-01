@@ -10,6 +10,8 @@ public:
 
         int taps = 0, maxFar = 0, currEnd = 0;
         for(int i=0; i<=n; i++) {
+            if (currEnd == n)
+                return taps;
             //cout<<end[i]<<" ";
             if(i>currEnd)
                 return -1;
@@ -20,9 +22,6 @@ public:
                 currEnd = maxFar;
                 taps++;
             }
-
-            if (currEnd == n)
-                return taps;
         }
 
         return taps;
