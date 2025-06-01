@@ -7,14 +7,14 @@ public:
             int end = clips[i][1];
             if(start>time)
                 continue;
-            clipEnd[start] = max(clipEnd[start], end);
+            clipEnd[start] = min(max(clipEnd[start], end),time);
         }
 
         int maxFar=0, currEnd=0, clipCount=0;
 
         for(int t=0; t<=time; t++) {
-            cout<<clipEnd[t]<<" ";
-            if(currEnd >= time)
+            //cout<<clipEnd[t]<<" ";
+            if(currEnd == time)
                 return clipCount;
             
             if(t>currEnd)
