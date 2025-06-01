@@ -11,7 +11,7 @@ public:
         int taps = 0, maxFar = 0, currEnd = 0;
         for(int i=0; i<=n; i++) {
             //cout<<end[i]<<" ";
-            if(i>maxFar)
+            if(i>currEnd)
                 return -1;
 
             maxFar = max(maxFar, end[i]);
