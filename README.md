@@ -89,4 +89,20 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
