@@ -4,10 +4,10 @@ public:
         unordered_map<string, int> uniqueEmails;
 
         for(auto email:emails) {
-            int domainPos = -1;
+            int domainPos = -1, i;
             string trimEmail;
             
-            for(int i=0; i<email.length(); i++){
+            for(i=0; i<email.length(); i++){
                 if(email[i] == '.')
                     continue;
                 if(email[i] == '+')
@@ -20,7 +20,7 @@ public:
                 trimEmail+=email[i];
             }
 
-            trimEmail += email.substr(domainPos==-1 ? email.find('@') : domainPos);
+            trimEmail += email.substr(domainPos==-1 ? email.find('@',i) : domainPos);
             uniqueEmails[trimEmail]++;
         }
 
