@@ -100,6 +100,7 @@ Repo to track my Leetcode Progress
 | [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,4 +119,12 @@ Repo to track my Leetcode Progress
 | [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
