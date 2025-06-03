@@ -1,39 +1,37 @@
 class Solution {
 public:
-    int maxCandies(vector<int>& stat, vector<int>& choco, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& curBoxes) {
+    int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
         deque<int> dq;
 
-        // process / put current box in queue
-        for(int i=0;i<curBoxes.size();i++){
-            int box_ind = curBoxes[i];
-
-            if(stat[box_ind] == 0){dq.push_back(box_ind);}
-            else{dq.push_front(box_ind);}
+        for(auto box: initialBoxes){
+            if(status[box])
+                dq.push_front(box);
+            else
+                dq.push_back(box);
         }
 
-        int ans = 0;
-
-        // start processing each box
+        int candy = 0;
         while(!dq.empty()){
             int box = dq.front();
             dq.pop_front();
 
-            if(stat[box]==0){
+            if(!status[box])
                 break;
+            
+            candy += candies[box];
+            for(auto key:keys[box]){
+                status[key] = 1;
             }
-            else if(stat[box]==1){
-                ans += choco[box];
-                for(auto& key:keys[box]){
-                    stat[key] = 1;
-                }
-            }
+            
 
-            for(auto& new_box_ind : containedBoxes[box]){
-                if(stat[new_box_ind]==0){dq.push_back(new_box_ind);}
-                else{dq.push_front(new_box_ind);}
+            for(auto innerBox : containedBoxes[box]){
+                if(status[innerBox])
+                    dq.push_front(innerBox);
+                else
+                    dq.push_back(innerBox);
             }
         }
 
-        return ans;
+        return candy;
     }
 };
