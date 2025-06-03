@@ -9,6 +9,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
+| [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
@@ -103,12 +104,14 @@ Repo to track my Leetcode Progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -133,4 +136,12 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
