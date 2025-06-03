@@ -1,39 +1,39 @@
 class Solution {
 public:
-    int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
-        int candy = 0, n = candies.size();
-        vector<int>visitedBox(n,0), keyFound(n,0), boxInQueue(n,0);
-        queue<int>q;
-        for(auto box: initialBoxes) {
-            q.push(box);
-            visitedBox[box]=1;
-            boxInQueue[box]=1;
+    int maxCandies(vector<int>& stat, vector<int>& choco, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& curBoxes) {
+        deque<int> dq;
+
+        // process / put current box in queue
+        for(int i=0;i<curBoxes.size();i++){
+            int box_ind = curBoxes[i];
+
+            if(stat[box_ind] == 0){dq.push_back(box_ind);}
+            else{dq.push_front(box_ind);}
         }
 
-        while(!q.empty()) {
-            int cur = q.front(); q.pop();
-            boxInQueue[cur] = 0;
-            if(status[cur]) {
-                visitedBox[cur] = 0;
-                candy += candies[cur];
-                for(auto key: keys[cur]) {
-                    status[key] = 1;
-                    if(visitedBox[key] && !keyFound[key] && !boxInQueue[key]){
-                        q.push(key);
-                        boxInQueue[key]=1;
-                    }
-                    keyFound[key] = 1;
+        int ans = 0;
 
+        // start processing each box
+        while(!dq.empty()){
+            int box = dq.front();
+            dq.pop_front();
+
+            if(stat[box]==0){
+                break;
+            }
+            else if(stat[box]==1){
+                ans += choco[box];
+                for(auto& key:keys[box]){
+                    stat[key] = 1;
                 }
-                for(auto containedBox: containedBoxes[cur]) {
-                    if (!boxInQueue[containedBox])
-                        q.push(containedBox);
-                    visitedBox[containedBox] = 1;
-                    boxInQueue[containedBox] = 1;
-                }
+            }
+
+            for(auto& new_box_ind : containedBoxes[box]){
+                if(stat[new_box_ind]==0){dq.push_back(new_box_ind);}
+                else{dq.push_front(new_box_ind);}
             }
         }
 
-        return candy;
+        return ans;
     }
 };
