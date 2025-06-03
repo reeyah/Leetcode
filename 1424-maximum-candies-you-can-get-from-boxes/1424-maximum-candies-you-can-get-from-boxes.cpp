@@ -26,6 +26,7 @@ public:
 
                 }
                 for(auto containedBox: containedBoxes[cur]) {
+                    if (!boxInQueue[containedBox])
                         q.push(containedBox);
                     visitedBox[containedBox] = 1;
                     boxInQueue[containedBox] = 1;
