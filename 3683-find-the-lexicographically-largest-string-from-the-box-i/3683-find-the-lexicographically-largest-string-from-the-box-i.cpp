@@ -31,7 +31,7 @@ public:
 
         for(int i = 0; i<startPos.size(); i++) {
             int tempPos = startPos[i];
-            cout<<tempPos<<" ";
+            //cout<<tempPos<<" ";
             string tempRes = tempPos+length > n ? word.substr(tempPos) : word.substr(tempPos,length);
             res = max(res, tempRes);
         }
