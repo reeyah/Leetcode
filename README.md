@@ -38,6 +38,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
@@ -142,6 +143,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Matrix
 |  |
 | ------- |
