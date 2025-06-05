@@ -4,7 +4,7 @@ class Solution {
     int find(int x){
         if(par[x]==-1) 
             return x;
-        return find(par[x]);
+        return par[x] = find(par[x]);
     }
     
     void Union(int x, int y) {
