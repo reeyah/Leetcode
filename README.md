@@ -25,6 +25,7 @@ Repo to track my Leetcode Progress
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
@@ -41,12 +42,14 @@ Repo to track my Leetcode Progress
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -86,6 +89,7 @@ Repo to track my Leetcode Progress
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Combinatorics
 |  |
 | ------- |
