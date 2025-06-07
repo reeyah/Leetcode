@@ -2,19 +2,19 @@ class Solution {
 public:
     string clearStars(string s) {
         int n = s.size();
-        priority_queue<char, vector<char>, greater<char>> pq; //Min-heap
-        unordered_map<char, vector<int>>m;
+        vector<stack<int>> occ(26);
 
         for(int i=0; i<n; i++) {
             if(s[i]=='*') {
-                char smallest = pq.top();
-                pq.pop();
-                int index = m[smallest].back();
-                m[smallest].pop_back(); //removing last index
-                s[index]='*';
+                for(int j=0; j<26; j++) {
+                    if(!occ[j].empty()) {
+                        s[occ[j].top()] = '*';
+                        occ[j].pop();
+                        break;
+                    }
+                }
             } else {
-                pq.push(s[i]);
-                m[s[i]].push_back(i);
+                occ[s[i]-'a'].push(i);
             }
         }
 
