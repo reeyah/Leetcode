@@ -10,6 +10,7 @@ Repo to track my Leetcode Progress
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
@@ -88,6 +89,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
