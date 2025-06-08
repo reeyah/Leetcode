@@ -16,8 +16,8 @@ private:
         lexicalSorted.push_back(cur);
         for(int dig =0; dig<=9; dig++) {
             int next = cur*10+dig;
-            // if(next>n)
-            //     break; 
+            if(next>n)
+                break; 
             dfs(next, n);
         }
     }
