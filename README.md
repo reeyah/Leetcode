@@ -117,6 +117,7 @@ Repo to track my Leetcode Progress
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/reeyah/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -166,4 +167,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/reeyah/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
