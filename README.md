@@ -64,6 +64,7 @@ Repo to track my Leetcode Progress
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/reeyah/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Design
@@ -86,6 +87,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
@@ -171,4 +173,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/reeyah/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
