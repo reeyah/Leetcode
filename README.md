@@ -7,6 +7,7 @@ Repo to track my Leetcode Progress
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/reeyah/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
@@ -89,6 +90,7 @@ Repo to track my Leetcode Progress
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/reeyah/Leetcode/tree/master/0039-combination-sum) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
