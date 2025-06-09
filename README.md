@@ -9,6 +9,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0039-combination-sum](https://github.com/reeyah/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
@@ -61,6 +62,7 @@ Repo to track my Leetcode Progress
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -199,4 +201,8 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
