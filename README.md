@@ -73,6 +73,7 @@ Repo to track my Leetcode Progress
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/reeyah/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -97,6 +98,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/reeyah/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
@@ -118,6 +120,7 @@ Repo to track my Leetcode Progress
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/reeyah/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
