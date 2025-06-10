@@ -199,6 +199,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/reeyah/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/reeyah/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Memoization
 |  |
 | ------- |
