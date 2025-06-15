@@ -116,6 +116,7 @@ Repo to track my Leetcode Progress
 | [0198-house-robber](https://github.com/reeyah/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
@@ -156,6 +157,7 @@ Repo to track my Leetcode Progress
 | [0386-lexicographical-numbers](https://github.com/reeyah/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
+| [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -186,6 +188,7 @@ Repo to track my Leetcode Progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -193,6 +196,7 @@ Repo to track my Leetcode Progress
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Union Find
 |  |
