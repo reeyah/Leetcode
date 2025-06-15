@@ -88,6 +88,7 @@ Repo to track my Leetcode Progress
 ## Design
 |  |
 | ------- |
+| [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -164,6 +165,7 @@ Repo to track my Leetcode Progress
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
+| [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -183,12 +185,14 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Union Find
 |  |
