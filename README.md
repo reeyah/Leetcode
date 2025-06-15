@@ -81,6 +81,7 @@ Repo to track my Leetcode Progress
 | [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/reeyah/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/reeyah/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/reeyah/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Design
@@ -122,6 +123,7 @@ Repo to track my Leetcode Progress
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/reeyah/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/reeyah/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
