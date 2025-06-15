@@ -68,6 +68,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -89,6 +90,7 @@ Repo to track my Leetcode Progress
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
