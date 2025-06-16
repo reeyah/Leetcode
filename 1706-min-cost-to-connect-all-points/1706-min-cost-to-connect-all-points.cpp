@@ -7,7 +7,7 @@ public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
         vector<bool>visited(n, false);
-
+        unordered_map<int, int> shortest; // optimisation for full graph
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<>>pq; //min heap
 
         int distance = 0;
@@ -27,7 +27,10 @@ public:
             for(int v = 0; v < n ; v++) {
                 if(!visited[v]) {
                     int d = dist(points[u], points[v]);
-                    pq.push({d, v});
+                    if(shortest.find(v) == shortest.end() || d < shortest[v]) {
+                        shortest[v] = d;
+                        pq.push({d, v});
+                    }
                 }
             }
         }
