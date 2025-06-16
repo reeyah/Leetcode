@@ -26,6 +26,7 @@ Repo to track my Leetcode Progress
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/reeyah/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -192,6 +193,7 @@ Repo to track my Leetcode Progress
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
 | [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Repo to track my Leetcode Progress
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -257,4 +260,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
