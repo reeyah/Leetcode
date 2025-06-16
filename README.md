@@ -171,6 +171,7 @@ Repo to track my Leetcode Progress
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Repo to track my Leetcode Progress
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -188,6 +190,7 @@ Repo to track my Leetcode Progress
 | [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/reeyah/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Topological Sort
 |  |
@@ -204,6 +207,7 @@ Repo to track my Leetcode Progress
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,11 +217,13 @@ Repo to track my Leetcode Progress
 | [0955-complete-binary-tree-inserter](https://github.com/reeyah/Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1008-binary-tree-cameras](https://github.com/reeyah/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## Union Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1275-validate-binary-tree-nodes](https://github.com/reeyah/Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
