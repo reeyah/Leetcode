@@ -11,13 +11,13 @@ public:
 
             res.push_back(digit);
         }
-        res.erase(keep, string::npos);
+        res.erase(keep);
 
         int s = 0;
         while (s<res.size()-1 && res[s]=='0')  
             s++;
         res.erase(0, s);
 
-        return res=="" ? "0":res;
+        return res.empty() ? "0":res;
     }
 };
