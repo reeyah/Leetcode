@@ -54,6 +54,7 @@ Repo to track my Leetcode Progress
 | [0091-decode-ways](https://github.com/reeyah/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/reeyah/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/reeyah/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -70,6 +71,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -130,6 +132,7 @@ Repo to track my Leetcode Progress
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/reeyah/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/reeyah/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -235,6 +238,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
