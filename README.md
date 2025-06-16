@@ -86,6 +86,7 @@ Repo to track my Leetcode Progress
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/reeyah/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
