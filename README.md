@@ -12,6 +12,7 @@ Repo to track my Leetcode Progress
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reeyah/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/reeyah/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
@@ -128,6 +129,7 @@ Repo to track my Leetcode Progress
 | [0091-decode-ways](https://github.com/reeyah/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/reeyah/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reeyah/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/reeyah/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
