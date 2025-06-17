@@ -9,6 +9,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0039-combination-sum](https://github.com/reeyah/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/reeyah/Leetcode/tree/master/0118-pascals-triangle) |
@@ -129,6 +130,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/reeyah/Leetcode/tree/master/0091-decode-ways) |
@@ -284,4 +286,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
