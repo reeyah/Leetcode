@@ -17,6 +17,7 @@ Repo to track my Leetcode Progress
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/reeyah/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -35,6 +36,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -75,6 +77,7 @@ Repo to track my Leetcode Progress
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -252,6 +255,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
