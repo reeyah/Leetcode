@@ -35,6 +35,7 @@ Repo to track my Leetcode Progress
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/reeyah/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -96,6 +97,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Math
@@ -279,6 +281,7 @@ Repo to track my Leetcode Progress
 ## Sliding Window
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/reeyah/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
@@ -293,4 +296,16 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
