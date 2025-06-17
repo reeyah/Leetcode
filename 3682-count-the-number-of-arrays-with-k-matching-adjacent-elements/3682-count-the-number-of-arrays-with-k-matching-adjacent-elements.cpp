@@ -8,8 +8,8 @@ private:
 
         while(power) {
             if(power&1) 
-                res = res * a % m;
-            a = a * a % m;
+                res = (res * a) % m;
+            a = (a * a) % m;
             power >>= 1;
         }
 
