@@ -24,6 +24,7 @@ Repo to track my Leetcode Progress
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reeyah/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/reeyah/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/reeyah/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -44,6 +45,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/reeyah/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/reeyah/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0965-unique-email-addresses](https://github.com/reeyah/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -119,6 +121,7 @@ Repo to track my Leetcode Progress
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/reeyah/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/reeyah/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
