@@ -39,6 +39,7 @@ Repo to track my Leetcode Progress
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/reeyah/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -167,6 +168,7 @@ Repo to track my Leetcode Progress
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/reeyah/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/reeyah/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Combinatorics
 |  |
@@ -290,6 +292,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
