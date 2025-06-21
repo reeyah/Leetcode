@@ -55,6 +55,7 @@ Repo to track my Leetcode Progress
 | [1207-delete-nodes-and-return-forest](https://github.com/reeyah/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/reeyah/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/reeyah/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reeyah/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -79,6 +80,7 @@ Repo to track my Leetcode Progress
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/reeyah/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/reeyah/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -174,6 +176,7 @@ Repo to track my Leetcode Progress
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/reeyah/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/reeyah/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/reeyah/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Combinatorics
 |  |
@@ -191,6 +194,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/reeyah/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reeyah/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/reeyah/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Depth-First Search
@@ -300,6 +304,7 @@ Repo to track my Leetcode Progress
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/reeyah/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/reeyah/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
