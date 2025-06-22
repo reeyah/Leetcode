@@ -4,12 +4,8 @@ public:
         vector<string> res;
         for(int i=0; i<s.size(); i+=k){
             string temp = s.substr(i, k);
-            int t = temp.size();
-            if(t != k) {
-                while(t<k) {
-                    temp += fill;
-                    t++;
-                }
+            while(temp.size()<k) {
+                temp += fill;
             }
             res.push_back(temp);
         }
