@@ -39,6 +39,7 @@ Repo to track my Leetcode Progress
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/reeyah/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/reeyah/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/reeyah/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/reeyah/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -277,6 +278,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/reeyah/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
 |  |
