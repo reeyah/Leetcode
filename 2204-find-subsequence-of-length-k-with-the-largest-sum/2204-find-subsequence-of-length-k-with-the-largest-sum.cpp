@@ -8,15 +8,13 @@ public:
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
         unordered_set<int>idx;
 
-        for(int i=0; i<k; i++) {
-            pq.push({nums[i], i});
-        }
-
-        for(int i=k; i<nums.size(); i++) {
-            if(nums[i] > pq.top().first) {
+        for(int i=0; i<nums.size(); i++) {
+            if(pq.size() == k && (nums[i] > pq.top().first)) {
                 pq.pop();
                 pq.push({nums[i], i});
             }
+            if(pq.size() < k)
+                pq.push({nums[i], i});
         }
 
         while(!pq.empty()) {
