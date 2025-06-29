@@ -36,6 +36,7 @@ Repo to track my Leetcode Progress
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2107-find-unique-binary-string](https://github.com/reeyah/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/reeyah/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -289,6 +290,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/reeyah/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
@@ -320,6 +322,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reeyah/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/reeyah/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/reeyah/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -344,4 +347,8 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Binary Search
+|  |
+| ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 <!---LeetCode Topics End-->
