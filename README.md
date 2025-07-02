@@ -94,6 +94,7 @@ Repo to track my Leetcode Progress
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/reeyah/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/reeyah/Leetcode/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/reeyah/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/reeyah/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/reeyah/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/reeyah/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -146,6 +147,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/reeyah/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [3618-find-the-original-typed-string-ii](https://github.com/reeyah/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/reeyah/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
 |  |
@@ -175,6 +177,7 @@ Repo to track my Leetcode Progress
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/reeyah/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/reeyah/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
