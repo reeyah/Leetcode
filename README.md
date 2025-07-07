@@ -21,6 +21,7 @@ Repo to track my Leetcode Progress
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/reeyah/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/reeyah/Leetcode/tree/master/0198-house-robber) |
+| [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/reeyah/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reeyah/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
+| [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reeyah/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +193,7 @@ Repo to track my Leetcode Progress
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/reeyah/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/reeyah/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/reeyah/Leetcode/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-video-stitching](https://github.com/reeyah/Leetcode/tree/master/1081-video-stitching) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/reeyah/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -303,6 +306,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
+| [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/reeyah/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/reeyah/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -322,6 +326,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/reeyah/Leetcode/tree/master/0503-next-greater-element-ii) |
