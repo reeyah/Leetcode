@@ -39,6 +39,7 @@ Repo to track my Leetcode Progress
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/reeyah/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/reeyah/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/reeyah/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/reeyah/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/reeyah/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -352,6 +353,7 @@ Repo to track my Leetcode Progress
 | [0594-longest-harmonious-subsequence](https://github.com/reeyah/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1499-maximum-performance-of-a-team](https://github.com/reeyah/Leetcode/tree/master/1499-maximum-performance-of-a-team) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/reeyah/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/reeyah/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2117-find-original-array-from-doubled-array](https://github.com/reeyah/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/reeyah/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -383,6 +385,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1675-magnetic-force-between-two-balls](https://github.com/reeyah/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/reeyah/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Bit Manipulation
 |  |
