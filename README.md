@@ -132,6 +132,7 @@ Repo to track my Leetcode Progress
 | [0009-palindrome-number](https://github.com/reeyah/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reeyah/Leetcode/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/reeyah/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/reeyah/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/reeyah/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/reeyah/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -389,4 +390,8 @@ Repo to track my Leetcode Progress
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/reeyah/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/reeyah/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/reeyah/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
