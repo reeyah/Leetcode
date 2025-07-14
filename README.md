@@ -8,6 +8,7 @@ Repo to track my Leetcode Progress
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/reeyah/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/reeyah/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
@@ -111,6 +112,7 @@ Repo to track my Leetcode Progress
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/reeyah/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/reeyah/Leetcode/tree/master/0155-min-stack) |
 | [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
@@ -172,6 +174,7 @@ Repo to track my Leetcode Progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/reeyah/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/reeyah/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/reeyah/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/reeyah/Leetcode/tree/master/0062-unique-paths) |
@@ -314,6 +317,7 @@ Repo to track my Leetcode Progress
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/reeyah/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/reeyah/Leetcode/tree/master/0075-sort-colors) |
 | [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/reeyah/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -335,6 +339,7 @@ Repo to track my Leetcode Progress
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/reeyah/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reeyah/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0321-create-maximum-number](https://github.com/reeyah/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
