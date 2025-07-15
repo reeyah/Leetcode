@@ -59,6 +59,7 @@ Repo to track my Leetcode Progress
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/reeyah/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/reeyah/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeyah/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ Repo to track my Leetcode Progress
 | ------- |
 | [0091-decode-ways](https://github.com/reeyah/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/reeyah/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/reeyah/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/reeyah/Leetcode/tree/master/0139-word-break) |
 | [0402-remove-k-digits](https://github.com/reeyah/Leetcode/tree/master/0402-remove-k-digits) |
 | [0829-subdomain-visit-count](https://github.com/reeyah/Leetcode/tree/master/0829-subdomain-visit-count) |
@@ -262,6 +264,7 @@ Repo to track my Leetcode Progress
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/reeyah/Leetcode/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/reeyah/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/reeyah/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/reeyah/Leetcode/tree/master/0310-minimum-height-trees) |
